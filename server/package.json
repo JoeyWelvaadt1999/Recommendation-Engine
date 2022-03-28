@@ -1,0 +1,17 @@
+{
+  "name": "recommendationengine",
+  "version": "1.0.0",
+  "description": "Recommendation engine for webshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon start",
+    "start": "nodemon start"
+  },
+  "author": "Joey Danilo Welvaadt",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
+  }
+}
