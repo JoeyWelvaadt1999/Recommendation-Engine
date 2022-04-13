@@ -2,3 +2,4 @@
 *.zip
 *.rar
 /db
+/app/node_modules
